@@ -14,6 +14,7 @@ class Counter extends Component {
         console.log("Increment Clicked", this);
     }
 
+    
     render() {
         return (
             <div>
